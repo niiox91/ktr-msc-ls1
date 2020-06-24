@@ -15,7 +15,7 @@
 <body>
 	<?php include('navbar.php'); ?>
 	<div class="content">
-    	<h1> Application business card manger</h1>
+    	<h1> Application business card manager</h1>
     </div>
 
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
